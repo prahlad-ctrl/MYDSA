@@ -16,6 +16,9 @@ The library is a comprehensive collection of fundamental data structures and alg
     -   `DynamicArray`: A resizable array that automatically grows to accommodate new elements.
     -   `SinglyLinkedList`: A basic linked list where each node points to the next.
     -   `DoublyLinkedList`: A linked list where each node has a reference to both the next and the previous node.
+    -   `Queue`: A linear data structure that follows the First-In, First-Out (FIFO) principle.
+    -   `Stack`: A linear data structure that follows the Last-In, First-Out (LIFO) principle.
+    -   `Deque`: A more generalized version of a queue where elements can be added or removed from either the front or the back.
 
 ---
 
