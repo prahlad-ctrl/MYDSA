@@ -11,8 +11,6 @@ public class maintestqueue {
         System.out.println("Dequeue: " + queue1.dequeue());
         queue1.print();
 
-
-
         QueueLinkedList<Integer> queue2 = new QueueLinkedList<>();
         queue2.enqueue(11);
         queue2.enqueue(22);

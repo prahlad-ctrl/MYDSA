@@ -14,8 +14,6 @@ public class maintestdeque {
         System.out.println("Front after removals: " + dq1.peekFront());
         dq1.print();
 
-
-
         DequeArray<Integer> dq2 = new DequeArray<>(5);
         dq2.addRear(10);
         dq2.addRear(20);

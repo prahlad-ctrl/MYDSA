@@ -1,7 +1,7 @@
 import dsalib.linkedlist.DoublyLinkedList;
 import dsalib.linkedlist.SinglyLinkedList;
 
-public class maintestlist{
+public class maintestlist {
     public static void main(String[] args) {
         SinglyLinkedList<Integer> sll = new SinglyLinkedList<>();
         sll.insertAtHead(1);

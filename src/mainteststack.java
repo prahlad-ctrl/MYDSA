@@ -11,8 +11,6 @@ public class mainteststack {
         System.out.println("Pop: " + stack1.pop());
         stack1.print();
 
-
-
         StackLinkedList<Integer> stack2 = new StackLinkedList<>();
         stack2.push(100);
         stack2.push(200);
