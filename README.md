@@ -21,6 +21,7 @@ The library is a comprehensive collection of fundamental data structures and alg
     -   `Deque`: A more generalized version of a queue where elements can be added or removed from either the front or the back.
     -   `HashMap`: A data structure that stores unique key-value pairs for efficient data retrieval.
     -   `HashSet`: A data structure that stores only unique elements and is often implemented internally using a HashMap.
+    -   `BinarySearchTree`: A hierarchical data structure where each node has at most two children, and the values are organized so that every node in the left subtree is less than the parent node, while every node in the right subtree is greater.
 
 ---
 
